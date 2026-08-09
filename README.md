@@ -40,5 +40,7 @@ cd TranslateQuily
 
 作者 WoodYang1
 
-许可证
-本项目使用 MIT 许可证，详见 LICENSE 文件。
+## 许可证
+本项目仅供个人学习、研究使用，**严禁商用**。详见 [LICENSE](LICENSE) 文件
+
+
